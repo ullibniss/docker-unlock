@@ -2,11 +2,11 @@
 
 # New JSON content to add
 new_mirrors=(
-  "https://dockerhub.timeweb.cloud".
-  "https://mirror.gcr.io"
+  "https://mirror.gcr.io".
+  "https://quay.io"
+  "https://dockerhub.timeweb.cloud"
   "https://daocloud.io"
   "https://c.163.com"
-  "https://huecker.io"
   "https://registry.docker-cn.com"
 )
 
